@@ -12,4 +12,8 @@
  * Вы осознали, что качество/поддержка продукта перестали быть управляемыми и это не решается добавлением в команду новых тестировщиков – я помогу вам найти причины и поменять разработку так, чтобы вы их контролировали (буду вашим quality assurance).
  * Вам нужно помочь с новым продуктом/проектом/RFP в области, где у меня есть значительная доменная экспертиза - AdTech (advertising technologies, ridesharing).
 
-CV: <http://bit.ly/cv_ivan_antsipau>
+
+Контакты:
+ * email: ivan.antsipau@gmail.com
+ * telegram: <http://t.me/isantipov>
+ * CV: <http://bit.ly/cv_ivan_antsipau>
